@@ -1,3 +1,4 @@
+```groovy
 pipeline {
     environment {
         dockerRegistry = "theanotherwise/semver"
@@ -117,3 +118,4 @@ pipeline {
         }
     }
 }
+```
