@@ -1,4 +1,4 @@
-```jenkinsfile
+```groovy
 pipeline {
     agent {
         docker { 
